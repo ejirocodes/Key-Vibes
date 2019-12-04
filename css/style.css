@@ -1,6 +1,6 @@
 canvas {
     width: 100%;
-    background: #112;
+    background: linear-gradient(to  right, #004445, #89ddad) no-repeat;
 }
 
 * {
